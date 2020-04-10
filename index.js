@@ -36,11 +36,12 @@ do {
 } while ([condition]);
 
 */
-/*
+
 function iLoveTheBeatles(number) {
-  var emptyArray = []
+  var array = []
   do {
-    console.log("I love the Beatles!")
-  } while (15 < number)
+    array.push("I love the Beatles!");
+    number ++;
+  } while (number < 15)
+  return array 
 } 
-*/
