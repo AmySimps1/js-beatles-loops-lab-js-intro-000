@@ -15,13 +15,13 @@ function theBeatlesPlay(musicians, instruments) {
   return array
 }
 
-
 /* while loop--
 
 while ([condition]) {
   [loopBody with iteration statement];
 }
 */
+
 function johnLennonFacts(array) {
 let i = 0
 while (i < array.length) {
@@ -30,9 +30,6 @@ array[i] = array[i] + "!!!";
 }
 return array
 }
-
-
-
 
 /* Do-While Loop 
 
