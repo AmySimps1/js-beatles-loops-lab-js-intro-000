@@ -23,13 +23,12 @@ while ([condition]) {
 }
 */
 function johnLennonFacts(array) {
-newArray = []
 let i = 0
 while (i < array.length) {
-newArray.push(array[i].toString() + " !!!")
+array.push(array[i].toString() + " !!!")
   i += 1
 }
-return newArray 
+return array 
 }
 
 
