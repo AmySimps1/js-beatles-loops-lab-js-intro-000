@@ -1,5 +1,3 @@
-// add solution here
-
 /* for loop-
 
 for ([initialization]; [condition]; [iteration]) {
