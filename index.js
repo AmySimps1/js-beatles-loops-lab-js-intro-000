@@ -29,7 +29,7 @@ while (i < array.length) {
 // array.push(array[i].toString() + "!!!")
   i += 1
 }
-return array[i] + "!!!" 
+return array[0] + "!!!" 
 }
 
 
