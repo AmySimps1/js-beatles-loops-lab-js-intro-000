@@ -25,7 +25,7 @@ while ([condition]) {
 function johnLennonFacts(array) {
 let i = 0
 while (i < array.length) {
-array[i].push("!!!");
+array[i].join("!!!");
   i += 1
 }
 return array
