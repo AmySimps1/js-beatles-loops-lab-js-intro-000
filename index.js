@@ -26,11 +26,12 @@ function johnLennonFacts(array) {
 newArray = []
 let i = 0
 while (i < array.length) {
-newArray.push(array[i].toString + " !!!")
+newArray.push(array[i].toString() + " !!!")
   i += 1
 }
 return newArray 
 }
+
 
 /* Do-While Loop 
 
