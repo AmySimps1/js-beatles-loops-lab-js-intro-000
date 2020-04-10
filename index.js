@@ -33,15 +33,6 @@ return array
 }
 
 
-const array1 = [1, 2, 'a', '1a'];
-i = 0 
-while (i < array1.length) {
-  console.log(array1[i].toString() + "!!!");
-  i += 1
-}
-return array1 
-
-
 
 
 /* Do-While Loop 
